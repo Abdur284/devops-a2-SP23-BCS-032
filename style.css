@@ -55,3 +55,7 @@ footer {
     text-align: center;
     padding: 18px;
 }
+section:hover {
+    transform: translateY(-3px);
+    transition: 0.3s ease;
+}
