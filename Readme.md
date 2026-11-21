@@ -23,3 +23,10 @@ This project is a personal portfolio website created using HTML and CSS.
 
 This project demonstrates Git version control, Docker containerization,
 automated CI/CD using GitHub Actions, and GitHub webhooks.
+
+
+## How to Run
+
+1. Clone the repository.
+2. Open the project folder.
+3. Open index.html in your browser.
